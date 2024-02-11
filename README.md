@@ -18,7 +18,7 @@ This award reflects NSF's statutory mission and has been deemed worthy of suppor
 ## Team Member:
 
 Shakhawat Bhuiyan, PhD (Principal Investigator (PI))        
-**Research Interests:** Cancer Research with Nanoparticles.
+**Research Interests:** Cancer Research with Nanoparticles.                               
 **Email:** [sbhuiyan@jarvis.edu](mailto:sbhuiyan@jarvis.edu)
 
 Widodo Samyono, PhD (Co-Principal Investigator (Co-PI))                                       
@@ -27,7 +27,7 @@ Widodo Samyono, PhD (Co-Principal Investigator (Co-PI))
 **LinkedIn:** [https://www.linkedin.com/in/widodosamyono/](https://www.linkedin.com/in/widodosamyono/)                                                     
 ![image](imgs/widodo.png)
 
-Glendora Carter, PhD (Co-Principal Investigator (Co-PI)) 
+Glendora Carter, PhD (Co-Principal Investigator (Co-PI))              
 **Research Interests:** Biochemistry Nanoparticles.                        
 **Email:** [gcarter@jarvis.edu](mailto:gcarter@jarvis.edu)
 
@@ -36,7 +36,7 @@ Kenie Moses, PhD (Co-Principal Investigator (Co-PI))
 **Email:** [kmoses@susla.edu](mailto:kmoses@susla.edu)
 
 Yefer Suarez, PhD (Co-Principal Investigator (Co-PI))                        
-**Research Interests:** Nuclear Physics.
+**Research Interests:** Nuclear Physics.                            
 **Email:** [ybuitrago@jarvis.edu](mailto:ybuitrago@jarvis.edu)
 
 ## Team Support:         
