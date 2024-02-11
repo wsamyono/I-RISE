@@ -18,7 +18,7 @@ Glendora Carter, PhD (Co-PI)
 **Email:** [gcarter@jarvis.edu](mailto:gcarter@jarvis.edu)
 
 Kenie Moses (Co-Principal Investigator)                               
-**Email:** [kmoses@jarvis.edu](mailto:kmoses@susla.edu)
+**Email:** [kmoses@susla.edu](mailto:kmoses@susla.edu)
 
 Yefer Suarez (Co-Principal Investigator)                        
 **Email:** [ybuitrago@jarvis.edu](mailto:ybuitrago@jarvis.edu)
