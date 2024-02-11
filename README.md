@@ -1,19 +1,30 @@
-# Jarvis Bulldog's Team FacultyHack@Gateways23
+# Interdisciplinary Research Infusion into STEM Education (I-RISE) Project
 
-This repository is for Jarvis Bulldog Team of [FacultyHack@Gateways23](https://hackhpc.github.io/facultyhack-gateways23) with [SGX3](https://sciencegateways.org/). 
+This five years project is funded by NSF with the award number 2306625.
+[https://www.nsf.gov/awardsearch/showAward?AWD_ID=2306625&HistoricalAwards=false](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2306625&HistoricalAwards=false)
 
 ---
 
-**Team Member:** Widodo Samyono, PhD                                             
+**Team Member:**
+Shakhawat Bhuiyan, PhD (PI)
+**Email:** [sbhuiyan@jarvis.edu](mailto:sbhuiyan@jarvis.edu)
+
+Widodo Samyono, PhD (Co-PI)                                       
 **Email:** [wsamyono@jarvis.edu](mailto:wsamyono@jarvis.edu)                                          
 **LinkedIn:** [https://www.linkedin.com/in/widodosamyono/](https://www.linkedin.com/in/widodosamyono/)                                                            
 ![image](imgs/widodo.png)
-                  
-**Team Mentor:** Je'aime Powell.                                
-**Email:** [jpowell@tacc.utexas.edu](mailto:jpowell@tacc.utexas.edu)    
-**LinkedIn:** [https://www.linkedin.com/in/jeaimehp/](https://www.linkedin.com/in/jeaimehp/)
 
-![image](imgs/jeaime.png)
+Glendora Carter, PhD (Co-PI)
+
+Kenie Moses (Co-Principal Investigator)
+
+Yefer Suarez (Co-Principal Investigator)
+
+                  
+**Team Support:** 
+Antonietta Holman, PhD (Director of Bridge Summer Program)
+
+Gwendolyn Lee, MS (Director of Social Study)
 
 ---
 
