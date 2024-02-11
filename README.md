@@ -45,7 +45,7 @@ Gwendolyn Lee, MS (Director of Social Study)
 
 ## KLTV FEATURES JARVIS I-RISE SUMMER BRIDGE PROGRAM
 Jarvis Christian University was featured on the local ABC affiliate, KLTV, in a story about a new I-RISE Summer Bridge Program that provides students with a $500 stipend, four weeks of research experience alongside scientists doing real research, and free room and board, Up to 50 high school seniors can attend.  Juniors in high school can apply, however, seniors will get priority slots. 
-[https://www.jarvis.edu/blog/post/kltv-features-jarvis-i-rise-summer-bridge-program] (https://www.jarvis.edu/blog/post/kltv-features-jarvis-i-rise-summer-bridge-program)
+[https://www.jarvis.edu/blog/post/kltv-features-jarvis-i-rise-summer-bridge-program](https://www.jarvis.edu/blog/post/kltv-features-jarvis-i-rise-summer-bridge-program)
 
 ## News / JARVIS CHRISTIAN UNIVERSITY TO HOST I-RISE SUMMER BRIDGE PROGRAM FOR HIGH SCHOOL SENIORS INTERESTED IN STEM CAREERS
 Jarvis Christian University is offering a four-week Interdisciplinary Research Infusion into Science Education (I-RISE) program for graduating high school seniors interested in Science, Technology, Engineering, and Mathematics (STEM) careers.  The program runs from Monday, June 3, through Friday, June 28, on the campus of JCU in Hawkins, Texas.
