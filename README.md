@@ -63,6 +63,7 @@ Interested high school seniors should contact Dr. Antoinesha L. Hollman, directo
 
 Working with the I-RISE Summer Bridge Program this summer are Professor of Biology and NSF grant principal investigator Dr. Shakhawat Bhuiyan, Professor of Chemistry and NSF grant co-principal investigator Dr. Glendora Carter, Associate Professor of Physics Dr. Yefer M. Suarez, Associate Professor of Mathematics Dr. Widodo Samyono, Associate Professor of Engineering and Technology Dr. Kennie Moses and Assistant Professor of Social Work and project manager Gwendolyn Lee.
 
+![image](imgs/labbiophoto1.jpg)                                                                      
 [https://www.jarvis.edu/blog/post/jarvis-christian-university-to-host-i-rise-summer-bridge-program-for-high-school-seniors-interested-in-stem-careers](https://www.jarvis.edu/blog/post/jarvis-christian-university-to-host-i-rise-summer-bridge-program-for-high-school-seniors-interested-in-stem-careers)
 
 -----------
