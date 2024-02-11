@@ -21,6 +21,7 @@ Shakhawat Bhuiyan, PhD (Principal Investigator (PI))
 Widodo Samyono, PhD (Co-Principal Investigator (Co-PI))                                       
 **Email:** [wsamyono@jarvis.edu](mailto:wsamyono@jarvis.edu)                                          
 **LinkedIn:** [https://www.linkedin.com/in/widodosamyono/](https://www.linkedin.com/in/widodosamyono/)                                                     
+![image](imgs/widodo.png)
 
 Glendora Carter, PhD (Co-Principal Investigator (Co-PI))                                                
 **Email:** [gcarter@jarvis.edu](mailto:gcarter@jarvis.edu)
