@@ -17,21 +17,26 @@ This award reflects NSF's statutory mission and has been deemed worthy of suppor
 
 ## Team Member:
 
-Shakhawat Bhuiyan, PhD (Principal Investigator (PI))   
+Shakhawat Bhuiyan, PhD (Principal Investigator (PI))        
+**Research Interests:** Cancer Research with Nanoparticles.
 **Email:** [sbhuiyan@jarvis.edu](mailto:sbhuiyan@jarvis.edu)
 
 Widodo Samyono, PhD (Co-Principal Investigator (Co-PI))                                       
+**Research Interests:** Computational and Mathematical Biology.                           
 **Email:** [wsamyono@jarvis.edu](mailto:wsamyono@jarvis.edu)                                          
 **LinkedIn:** [https://www.linkedin.com/in/widodosamyono/](https://www.linkedin.com/in/widodosamyono/)                                                     
 ![image](imgs/widodo.png)
 
-Glendora Carter, PhD (Co-Principal Investigator (Co-PI))                                                
+Glendora Carter, PhD (Co-Principal Investigator (Co-PI)) 
+**Research Interests:** Biochemistry Nanoparticles.                        
 **Email:** [gcarter@jarvis.edu](mailto:gcarter@jarvis.edu)
 
-Kenie Moses, PhD (Co-Principal Investigator (Co-PI))                               
+Kenie Moses, PhD (Co-Principal Investigator (Co-PI))  
+**Research Interests:** Engineering Design.                                      
 **Email:** [kmoses@susla.edu](mailto:kmoses@susla.edu)
 
 Yefer Suarez, PhD (Co-Principal Investigator (Co-PI))                        
+**Research Interests:** Nuclear Physics.
 **Email:** [ybuitrago@jarvis.edu](mailto:ybuitrago@jarvis.edu)
 
 ## Team Support:         
@@ -44,7 +49,7 @@ Gwendolyn Lee, MS (Director of Social Study)
 
 ------
 
-# News
+# NEWS
 
 ## KLTV FEATURES JARVIS I-RISE SUMMER BRIDGE PROGRAM
 Jarvis Christian University was featured on the local ABC affiliate, KLTV, in a story about a new I-RISE Summer Bridge Program that provides students with a $500 stipend, four weeks of research experience alongside scientists doing real research, and free room and board, Up to 50 high school seniors can attend.  Juniors in high school can apply, however, seniors will get priority slots. 
@@ -67,5 +72,11 @@ Working with the I-RISE Summer Bridge Program this summer are Professor of Biolo
 [https://www.jarvis.edu/blog/post/jarvis-christian-university-to-host-i-rise-summer-bridge-program-for-high-school-seniors-interested-in-stem-careers](https://www.jarvis.edu/blog/post/jarvis-christian-university-to-host-i-rise-summer-bridge-program-for-high-school-seniors-interested-in-stem-careers)
 
 -----------
-# Resources
 
+# PROGRAMS
+
+## SUMMER BRIDGE PROGRAM 
+This is 4 weeks summer training research in computational and mathematical biology and pre-engineering. See the news I-RISE SUMMER BRIDGE PROGRAM FOR HIGH SCHOOL SENIORS INTERESTED IN STEM CAREERS.  
+
+## SUMMER INTERNSHIP UNDERGRADUATE RESEARCH 
+This is 6 weeks summer internship undergraduate research in cancer research. Under the faculty supervision the students conduct undergraduate research   
