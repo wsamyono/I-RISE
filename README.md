@@ -1,6 +1,6 @@
 # Interdisciplinary Research Infusion into STEM Education (I-RISE) Project
 
-![image](imgs/I-RISE-Logo1small.jpg)
+![image](imgs/I-RISE-Logo2small.jpg)
 
 This five years project is funded by NSF with the award number 2306625.
 [https://www.nsf.gov/awardsearch/showAward?AWD_ID=2306625](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2306625&HistoricalAwards=false)
