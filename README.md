@@ -43,8 +43,22 @@ Gwendolyn Lee, MS (Director of Social Study)
 
 # News
 
+## KLTV FEATURES JARVIS I-RISE SUMMER BRIDGE PROGRAM
+Jarvis Christian University was featured on the local ABC affiliate, KLTV, in a story about a new I-RISE Summer Bridge Program that provides students with a $500 stipend, four weeks of research experience alongside scientists doing real research, and free room and board, Up to 50 high school seniors can attend.  Juniors in high school can apply, however, seniors will get priority slots. 
+[https://www.jarvis.edu/blog/post/kltv-features-jarvis-i-rise-summer-bridge-program] (https://www.jarvis.edu/blog/post/kltv-features-jarvis-i-rise-summer-bridge-program)
 
+## News / JARVIS CHRISTIAN UNIVERSITY TO HOST I-RISE SUMMER BRIDGE PROGRAM FOR HIGH SCHOOL SENIORS INTERESTED IN STEM CAREERS
+Jarvis Christian University is offering a four-week Interdisciplinary Research Infusion into Science Education (I-RISE) program for graduating high school seniors interested in Science, Technology, Engineering, and Mathematics (STEM) careers.  The program runs from Monday, June 3, through Friday, June 28, on the campus of JCU in Hawkins, Texas.
 
+Application deadline is Monday, April 8.
+
+Training by real scientists, college preparedness, free room and board, and a $500 stipend is available to those who qualify. The Summer Bridge Program is funded by the National Science Foundation I-RISE. 
+
+Interested high school seniors should contact Dr. Antoinesha L. Hollman, director of the I-RISE Summer Bridge Program at ahollman@jarvis.edu or by calling (903) 730-4890, ext. 4001.
+
+Working with the I-RISE Summer Bridge Program this summer are Professor of Biology and NSF grant principal investigator Dr. Shakhawat Bhuiyan, Professor of Chemistry and NSF grant co-principal investigator Dr. Glendora Carter, Associate Professor of Physics Dr. Yefer M. Suarez, Associate Professor of Mathematics Dr. Widodo Samyono, Associate Professor of Engineering and Technology Dr. Kennie Moses and Assistant Professor of Social Work and project manager Gwendolyn Lee.
+
+[https://www.jarvis.edu/blog/post/jarvis-christian-university-to-host-i-rise-summer-bridge-program-for-high-school-seniors-interested-in-stem-careers](https://www.jarvis.edu/blog/post/jarvis-christian-university-to-host-i-rise-summer-bridge-program-for-high-school-seniors-interested-in-stem-careers)
 
 -----------
 # Resources
