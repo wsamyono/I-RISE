@@ -6,27 +6,32 @@ This five years project is funded by NSF with the award number 2306625.
 ---
 
 **Team Member:**
+
 Shakhawat Bhuiyan, PhD (PI)
 **Email:** [sbhuiyan@jarvis.edu](mailto:sbhuiyan@jarvis.edu)
 
 Widodo Samyono, PhD (Co-PI)                                       
 **Email:** [wsamyono@jarvis.edu](mailto:wsamyono@jarvis.edu)                                          
-**LinkedIn:** [https://www.linkedin.com/in/widodosamyono/](https://www.linkedin.com/in/widodosamyono/)                                                            
-![image](imgs/widodo.png)
+**LinkedIn:** [https://www.linkedin.com/in/widodosamyono/](https://www.linkedin.com/in/widodosamyono/)                                                     
 
 Glendora Carter, PhD (Co-PI)
+**Email:** [gcarter@jarvis.edu](mailto:gcarter@jarvis.edu)
 
 Kenie Moses (Co-Principal Investigator)
+**Email:** [kmoses@jarvis.edu](mailto:kmoses@jarvis.edu)
 
 Yefer Suarez (Co-Principal Investigator)
-
+**Email:** [ysuarez@jarvis.edu](mailto:ysuarez@jarvis.edu)
                   
 **Team Support:** 
-Antonietta Holman, PhD (Director of Bridge Summer Program)
+
+Antonietta Hollman, PhD (Director of Summer Bridge Program)
+**Email:** [ahollman@jarvis.edu](mailto:ahollman@jarvis.edu)
 
 Gwendolyn Lee, MS (Director of Social Study)
+**Email:** [glee@jarvis.edu](mailto:glee@jarvis.edu)
 
----
+------
 
 # Resources
 
