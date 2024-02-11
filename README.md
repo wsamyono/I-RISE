@@ -75,8 +75,8 @@ Working with the I-RISE Summer Bridge Program this summer are Professor of Biolo
 
 # PROGRAMS
 
-## SUMMER BRIDGE PROGRAM 
+## SUMMER STEM BRIDGE PROGRAM (S-STEM-BP) 
 This is 4 weeks summer training research in computational and mathematical biology and pre-engineering. See the news I-RISE SUMMER BRIDGE PROGRAM FOR HIGH SCHOOL SENIORS INTERESTED IN STEM CAREERS.  
 
-## SUMMER INTERNSHIP UNDERGRADUATE RESEARCH 
+## SUMMER INTERNSHIP UNDERGRADUATE RESEARCH (SIUR)
 This is 8 weeks summer internship undergraduate research in cancer research, mathematical modeling, and engineering research. Under the faculty supervision the students conduct undergraduate research to prepare for career, graduate studies, and workforces in STEM.    
