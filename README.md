@@ -14,21 +14,21 @@ Widodo Samyono, PhD (Co-PI)
 **Email:** [wsamyono@jarvis.edu](mailto:wsamyono@jarvis.edu)                                          
 **LinkedIn:** [https://www.linkedin.com/in/widodosamyono/](https://www.linkedin.com/in/widodosamyono/)                                                     
 
-Glendora Carter, PhD (Co-PI)
+Glendora Carter, PhD (Co-PI)                                                
 **Email:** [gcarter@jarvis.edu](mailto:gcarter@jarvis.edu)
 
-Kenie Moses (Co-Principal Investigator)
-**Email:** [kmoses@jarvis.edu](mailto:kmoses@jarvis.edu)
+Kenie Moses (Co-Principal Investigator)                               
+**Email:** [kmoses@jarvis.edu](mailto:kmoses@susla.edu)
 
-Yefer Suarez (Co-Principal Investigator)
-**Email:** [ysuarez@jarvis.edu](mailto:ysuarez@jarvis.edu)
-                  
-**Team Support:** 
+Yefer Suarez (Co-Principal Investigator)                        
+**Email:** [ybuitrago@jarvis.edu](mailto:ybuitrago@jarvis.edu)
 
-Antonietta Hollman, PhD (Director of Summer Bridge Program)
+**Team Support:**         
+
+Antonietta Hollman, PhD (Director of Summer Bridge Program)            
 **Email:** [ahollman@jarvis.edu](mailto:ahollman@jarvis.edu)
 
-Gwendolyn Lee, MS (Director of Social Study)
+Gwendolyn Lee, MS (Director of Social Study)                                        
 **Email:** [glee@jarvis.edu](mailto:glee@jarvis.edu)
 
 ------
