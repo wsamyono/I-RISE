@@ -7,7 +7,7 @@ This five years project is funded by NSF with the award number 2306625.
 
 **Team Member:**
 
-Shakhawat Bhuiyan, PhD (PI)
+Shakhawat Bhuiyan, PhD (PI)   
 **Email:** [sbhuiyan@jarvis.edu](mailto:sbhuiyan@jarvis.edu)
 
 Widodo Samyono, PhD (Co-PI)                                       
