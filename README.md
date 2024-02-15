@@ -75,6 +75,7 @@ Working with the I-RISE Summer Bridge Program this summer are Professor of Biolo
 
 ## I-RISE SUMMER BRIDGE PROGRAM (I-RISE SBP) 
 This is 4 weeks summer training research in biology, chemistry, computational and mathematical biology, and pre-engineering. See the news I-RISE SUMMER BRIDGE PROGRAM FOR HIGH SCHOOL SENIORS INTERESTED IN STEM CAREERS.  
+
 ![image](imgs/SBP Flyer.png)
 
 ## I-RISE SUMMER UNDERGRADUATE RESEARCH (I-RISE SUR)
