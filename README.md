@@ -15,31 +15,31 @@ This award reflects NSF's statutory mission and has been deemed worthy of suppor
 
 ## Team Member:
 
-Shakhawat Bhuiyan, PhD (Principal Investigator (PI))        
+Shakhawat Bhuiyan, PhD (Principal Investigator (PI)), Professor of Biology.         
 **Research Interests:** Cancer Research with Nanoparticles.                               
 **Email:** [sbhuiyan@jarvis.edu](mailto:sbhuiyan@jarvis.edu)
 
-Widodo Samyono, PhD (Co-Principal Investigator (Co-PI))                                       
+Widodo Samyono, PhD (Co-Principal Investigator (Co-PI)), Associate Professor of Mathematics.                                       
 **Research Interests:** Computational and Mathematical Biology.                           
 **Email:** [wsamyono@jarvis.edu](mailto:wsamyono@jarvis.edu)                                          
 **LinkedIn:** [https://www.linkedin.com/in/widodosamyono/](https://www.linkedin.com/in/widodosamyono/)                                                     
 ![image](imgs/widodo.png)
 
-Glendora Carter, PhD (Co-Principal Investigator (Co-PI))              
+Glendora Carter, PhD (Co-Principal Investigator (Co-PI)), Professor of Chemistry.              
 **Research Interests:** Biochemistry Nanoparticles.                        
 **Email:** [gcarter@jarvis.edu](mailto:gcarter@jarvis.edu)
 
-Kenie Moses, PhD (Co-Principal Investigator (Co-PI))  
+Kenie Moses, PhD (Co-Principal Investigator (Co-PI)), Associate Professor of Engineering.  
 **Research Interests:** Engineering Design.                                      
 **Email:** [kmoses@susla.edu](mailto:kmoses@susla.edu)
 
-Yefer Suarez, PhD (Co-Principal Investigator (Co-PI))                        
+Yefer Suarez, PhD (Co-Principal Investigator (Co-PI)), Associate Professor of Physics.                        
 **Research Interests:** Nuclear Physics.                            
 **Email:** [ybuitrago@jarvis.edu](mailto:ybuitrago@jarvis.edu)
 
 ## Team Support:         
 
-Antonietta Hollman, PhD (Director of Summer Bridge Program)            
+Antonietta Hollman, PhD (Director of Summer Bridge Program), Assistant Professor of Biology.             
 **Email:** [ahollman@jarvis.edu](mailto:ahollman@jarvis.edu)
 
 Gwendolyn Lee, MS (Director of Social Study)                                        
