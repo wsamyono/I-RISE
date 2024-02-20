@@ -15,34 +15,42 @@ This award reflects NSF's statutory mission and has been deemed worthy of suppor
 
 ## Team Member:
 
-Shakhawat Bhuiyan, PhD (Principal Investigator (PI)), Professor of Biology.         
+**Name and Roles:** Shakhawat Bhuiyan, PhD (Principal Investigator (PI)), Professor of Biology.         
+**Affilition:** Jarvis Christian University.  
 **Research Interests:** Cancer Research with Nanoparticles.                               
 **Email:** [sbhuiyan@jarvis.edu](mailto:sbhuiyan@jarvis.edu)
+![image](imgs/drbhuiyanpic.jpg) 
 
-Widodo Samyono, PhD (Co-Principal Investigator (Co-PI)), Associate Professor of Mathematics.                                       
+**Name and Roles:** Widodo Samyono, PhD (Co-Principal Investigator (Co-PI)), Associate Professor of Mathematics.                                       
+**Affilition:** Jarvis Christian University. 
 **Research Interests:** Computational and Mathematical Biology.                           
 **Email:** [wsamyono@jarvis.edu](mailto:wsamyono@jarvis.edu)                                          
 **LinkedIn:** [https://www.linkedin.com/in/widodosamyono/](https://www.linkedin.com/in/widodosamyono/)                                                     
 ![image](imgs/widodo.png)
 
-Glendora Carter, PhD (Co-Principal Investigator (Co-PI)), Professor of Chemistry.              
+**Name and Roles:** Glendora Carter, PhD (Co-Principal Investigator (Co-PI)), Professor of Chemistry.              
+**Affilition:** Jarvis Christian University.
 **Research Interests:** Biochemistry Nanoparticles.                        
 **Email:** [gcarter@jarvis.edu](mailto:gcarter@jarvis.edu)
 
-Kenie Moses, PhD (Co-Principal Investigator (Co-PI)), Associate Professor of Engineering.  
-**Research Interests:** Engineering Design.                                      
+**Name and Roles:** Kenie Moses, PhD (Co-Principal Investigator (Co-PI)), Associate Professor of Engineering.  
+**Affilition:** Southern University at Shrevport.
+**Research Interests:** Engineering Education and Electircan Engineering.                                      
 **Email:** [kmoses@susla.edu](mailto:kmoses@susla.edu)
 
-Yefer Suarez, PhD (Co-Principal Investigator (Co-PI)), Associate Professor of Physics.                        
+**Name and Roles:** Yefer Suarez-Buitrago, PhD (Co-Principal Investigator (Co-PI)), Associate Professor of Physics and Mathematics.                        
+**Affilition:** Jarvis Christian University.
 **Research Interests:** Nuclear Physics.                            
 **Email:** [ybuitrago@jarvis.edu](mailto:ybuitrago@jarvis.edu)
 
 ## Team Support:         
 
-Antonietta Hollman, PhD (Director of Summer Bridge Program), Assistant Professor of Biology.             
+**Name and Roles:** Antonietta Hollman, PhD (Director of Summer Bridge Program), Assistant Professor of Biology.             
+**Affilition:** Jarvis Christian University.
 **Email:** [ahollman@jarvis.edu](mailto:ahollman@jarvis.edu)
 
-Gwendolyn Lee, MS (Director of Social Study)                                        
+**Name and Roles:** Gwendolyn Lee, MS (Director of Social Study), Assistant Professor of Social Work.                                        
+**Affilition:** Jarvis Christian University.
 **Email:** [glee@jarvis.edu](mailto:glee@jarvis.edu)
 
 ------
