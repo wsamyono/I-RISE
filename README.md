@@ -18,7 +18,7 @@ This award reflects NSF's statutory mission and has been deemed worthy of suppor
 **Name and Roles:** Shakhawat Bhuiyan, PhD (Principal Investigator (PI)), Professor of Biology.         
 **Affilition:** Jarvis Christian University.  
 **Research Interests:** Cancer Research with Nanoparticles.                               
-**Email:** [sbhuiyan@jarvis.edu](mailto:sbhuiyan@jarvis.edu)
+**Email:** [sbhuiyan@jarvis.edu](mailto:sbhuiyan@jarvis.edu)                              
 ![image](imgs/drbhuiyanpicsmall.jpg) 
 
 **Name and Roles:** Widodo Samyono, PhD (Co-Principal Investigator (Co-PI)), Associate Professor of Mathematics.                                       
@@ -31,7 +31,7 @@ This award reflects NSF's statutory mission and has been deemed worthy of suppor
 **Name and Roles:** Glendora Carter, PhD (Co-Principal Investigator (Co-PI)), Professor of Chemistry.              
 **Affilition:** Jarvis Christian University.
 **Research Interests:** Biochemistry Nanoparticles.                        
-**Email:** [gcarter@jarvis.edu](mailto:gcarter@jarvis.edu)
+**Email:** [gcarter@jarvis.edu](mailto:gcarter@jarvis.edu)                                                      
 ![image](imgs/drcarterpicsmall.jpg)
 
 **Name and Roles:** Kenie Moses, PhD (Co-Principal Investigator (Co-PI)), Associate Professor of Engineering.  
@@ -43,19 +43,19 @@ This award reflects NSF's statutory mission and has been deemed worthy of suppor
 **Name and Roles:** Yefer Suarez-Buitrago, PhD (Co-Principal Investigator (Co-PI)), Associate Professor of Physics and Mathematics.                        
 **Affilition:** Jarvis Christian University.
 **Research Interests:** Nuclear Physics.                            
-**Email:** [ybuitrago@jarvis.edu](mailto:ybuitrago@jarvis.edu)
+**Email:** [ybuitrago@jarvis.edu](mailto:ybuitrago@jarvis.edu)                              
 ![image](imgs/drsuarezbuitragosmall.jpg)
 
 ## Team Support:         
 
 **Name and Roles:** Antonietta Hollman, PhD (Director of Summer Bridge Program), Assistant Professor of Biology.             
 **Affilition:** Jarvis Christian University.
-**Email:** [ahollman@jarvis.edu](mailto:ahollman@jarvis.edu)
+**Email:** [ahollman@jarvis.edu](mailto:ahollman@jarvis.edu)                                                   
 ![image](imgs/drahollmanpicsmall.jpg)
 
 **Name and Roles:** Gwendolyn Lee, MS (Director of Social Study), Assistant Professor of Social Work.                                        
 **Affilition:** Jarvis Christian University.
-**Email:** [glee@jarvis.edu](mailto:glee@jarvis.edu)
+**Email:** [glee@jarvis.edu](mailto:glee@jarvis.edu)                                                             
 ![image](imgs/mrsleepicsmall.jpg)
 
 ------
