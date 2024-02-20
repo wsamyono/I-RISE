@@ -44,7 +44,7 @@ This award reflects NSF's statutory mission and has been deemed worthy of suppor
 **Affilition:** Jarvis Christian University.
 **Research Interests:** Nuclear Physics.                            
 **Email:** [ybuitrago@jarvis.edu](mailto:ybuitrago@jarvis.edu)                              
-![image](imgs/drsuarezbuitragosmall.jpg)
+![image](imgs/drsuarezbuitragopicsmall.jpg)
 
 ## Team Support:         
 
