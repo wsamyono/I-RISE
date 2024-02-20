@@ -37,7 +37,7 @@ This award reflects NSF's statutory mission and has been deemed worthy of suppor
 **Name and Roles:** Kenie Moses, PhD (Co-Principal Investigator (Co-PI)), Associate Professor of Engineering.  
 **Affilition:** Southern University at Shrevport.
 **Research Interests:** Engineering Education and Electircan Engineering.                                      
-**Email:** [kmoses@susla.edu](mailto:kmoses@susla.edu)
+**Email:** [kmoses@susla.edu](mailto:kmoses@susla.edu)                      
 ![image](imgs/DrMosesPict.jpg)
 
 **Name and Roles:** Yefer Suarez-Buitrago, PhD (Co-Principal Investigator (Co-PI)), Associate Professor of Physics and Mathematics.                        
