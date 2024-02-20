@@ -51,7 +51,7 @@ This award reflects NSF's statutory mission and has been deemed worthy of suppor
 **Name and Roles:** Antonietta Hollman, PhD (Director of Summer Bridge Program), Assistant Professor of Biology.             
 **Affilition:** Jarvis Christian University.
 **Email:** [ahollman@jarvis.edu](mailto:ahollman@jarvis.edu)
-![image](imgs/drahollanpic.jpg)
+![image](imgs/drahollmanpic.jpg)
 
 **Name and Roles:** Gwendolyn Lee, MS (Director of Social Study), Assistant Professor of Social Work.                                        
 **Affilition:** Jarvis Christian University.
