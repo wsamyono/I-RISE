@@ -38,7 +38,7 @@ This award reflects NSF's statutory mission and has been deemed worthy of suppor
 **Affilition:** Southern University at Shrevport.
 **Research Interests:** Engineering Education and Electircan Engineering.                                      
 **Email:** [kmoses@susla.edu](mailto:kmoses@susla.edu)                      
-![image](imgs/1545161357108DrMosesImage.jpg)
+![image](imgs/1545161357108DrMosesImagesmaller.jpg)
 
 **Name and Roles:** Yefer Suarez-Buitrago, PhD (Co-Principal Investigator (Co-PI)), Associate Professor of Physics and Mathematics.                        
 **Affilition:** Jarvis Christian University.
