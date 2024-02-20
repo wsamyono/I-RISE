@@ -19,44 +19,44 @@ This award reflects NSF's statutory mission and has been deemed worthy of suppor
 **Affilition:** Jarvis Christian University.  
 **Research Interests:** Cancer Research with Nanoparticles.                               
 **Email:** [sbhuiyan@jarvis.edu](mailto:sbhuiyan@jarvis.edu)
-![image](imgs/drbhuiyanpic.jpg) 
+![image](imgs/drbhuiyanpicsmall.jpg) 
 
 **Name and Roles:** Widodo Samyono, PhD (Co-Principal Investigator (Co-PI)), Associate Professor of Mathematics.                                       
 **Affilition:** Jarvis Christian University. 
 **Research Interests:** Computational and Mathematical Biology.                           
 **Email:** [wsamyono@jarvis.edu](mailto:wsamyono@jarvis.edu)                                          
 **LinkedIn:** [https://www.linkedin.com/in/widodosamyono/](https://www.linkedin.com/in/widodosamyono/)                                                     
-![image](imgs/POR_2835.jpg)
+![image](imgs/drsamyonopicsmall.jpg)
 
 **Name and Roles:** Glendora Carter, PhD (Co-Principal Investigator (Co-PI)), Professor of Chemistry.              
 **Affilition:** Jarvis Christian University.
 **Research Interests:** Biochemistry Nanoparticles.                        
 **Email:** [gcarter@jarvis.edu](mailto:gcarter@jarvis.edu)
-![image](imgs/drcarterpic.jpg)
+![image](imgs/drcarterpicsmall.jpg)
 
 **Name and Roles:** Kenie Moses, PhD (Co-Principal Investigator (Co-PI)), Associate Professor of Engineering.  
-**Affilition:** Southern University at Shrevport.
+**Affilition:** Southern University Shrevport Lousiana.       
 **Research Interests:** Engineering Education and Electircan Engineering.                                      
 **Email:** [kmoses@susla.edu](mailto:kmoses@susla.edu)                      
-![image](imgs/1545161357108DrMosesImagesmaller.jpg)
+![image](imgs/1545161357108DrMosesPicSmall.jpg)
 
 **Name and Roles:** Yefer Suarez-Buitrago, PhD (Co-Principal Investigator (Co-PI)), Associate Professor of Physics and Mathematics.                        
 **Affilition:** Jarvis Christian University.
 **Research Interests:** Nuclear Physics.                            
 **Email:** [ybuitrago@jarvis.edu](mailto:ybuitrago@jarvis.edu)
-![image](imgs/drsuarezbuitrago.jpg)
+![image](imgs/drsuarezbuitragosmall.jpg)
 
 ## Team Support:         
 
 **Name and Roles:** Antonietta Hollman, PhD (Director of Summer Bridge Program), Assistant Professor of Biology.             
 **Affilition:** Jarvis Christian University.
 **Email:** [ahollman@jarvis.edu](mailto:ahollman@jarvis.edu)
-![image](imgs/drahollmanpic.jpg)
+![image](imgs/drahollmanpicsmall.jpg)
 
 **Name and Roles:** Gwendolyn Lee, MS (Director of Social Study), Assistant Professor of Social Work.                                        
 **Affilition:** Jarvis Christian University.
 **Email:** [glee@jarvis.edu](mailto:glee@jarvis.edu)
-![image](imgs/mrsleepic.jpg)
+![image](imgs/mrsleepicsmall.jpg)
 
 ------
 
