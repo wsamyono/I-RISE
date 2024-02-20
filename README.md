@@ -26,7 +26,7 @@ This award reflects NSF's statutory mission and has been deemed worthy of suppor
 **Research Interests:** Computational and Mathematical Biology.                           
 **Email:** [wsamyono@jarvis.edu](mailto:wsamyono@jarvis.edu)                                          
 **LinkedIn:** [https://www.linkedin.com/in/widodosamyono/](https://www.linkedin.com/in/widodosamyono/)                                                     
-![image](imgs/widodo.png)
+![image](imgs/POR_2835.jpg)
 
 **Name and Roles:** Glendora Carter, PhD (Co-Principal Investigator (Co-PI)), Professor of Chemistry.              
 **Affilition:** Jarvis Christian University.
