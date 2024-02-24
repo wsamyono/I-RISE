@@ -13,7 +13,8 @@ This award reflects NSF's statutory mission and has been deemed worthy of suppor
 
 ---
 
-## Team Member:           
+## Team Member: 
+---
 ![image](imgs/drbhuiyanpicsmall.jpg)            
 **Name and Roles:** Shakhawat Bhuiyan, PhD (Principal Investigator (PI)), Professor of Biology.         
 **Affilition:** Jarvis Christian University.  
