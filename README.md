@@ -93,11 +93,15 @@ This award reflects NSF's statutory mission and has been deemed worthy of suppor
 
 # NEWS
 
+---
+
 ## KLTV FEATURES JARVIS I-RISE SUMMER BRIDGE PROGRAM
 Jarvis Christian University was featured on the local ABC affiliate, KLTV, in a story about a new I-RISE Summer Bridge Program that provides students with a $500 stipend, four weeks of research experience alongside scientists doing real research, and free room and board, Up to 50 high school seniors can attend.  Juniors in high school can apply, however, seniors will get priority slots. 
                                                                   
 ![image](imgs/kltvphoto1.jpg)                                                                 
 [https://www.jarvis.edu/blog/post/kltv-features-jarvis-i-rise-summer-bridge-program](https://www.jarvis.edu/blog/post/kltv-features-jarvis-i-rise-summer-bridge-program)
+
+---
 
 ## JARVIS CHRISTIAN UNIVERSITY TO HOST I-RISE SUMMER BRIDGE PROGRAM FOR HIGH SCHOOL SENIORS INTERESTED IN STEM CAREERS
 Jarvis Christian University is offering a four-week Interdisciplinary Research Infusion into Science Education (I-RISE) program for graduating high school seniors interested in Science, Technology, Engineering, and Mathematics (STEM) careers.  The program runs from Monday, June 3, through Friday, June 28, on the campus of JCU in Hawkins, Texas.
@@ -117,10 +121,14 @@ Working with the I-RISE Summer Bridge Program this summer are Professor of Biolo
 
 # PROGRAMS
 
+---
+
 ## I-RISE SUMMER BRIDGE PROGRAM (I-RISE SBP) 
 This is 4 weeks summer training research in biology, chemistry, computational and mathematical biology, and pre-engineering. See the news I-RISE SUMMER BRIDGE PROGRAM FOR HIGH SCHOOL SENIORS INTERESTED IN STEM CAREERS.  
 
 ![image](imgs/SBP Flyer.png)
+
+---
 
 ## I-RISE SUMMER UNDERGRADUATE RESEARCH INTERNSHIP (I-RISE SURI)
 This is 8 weeks summer internship undergraduate research in cancer research, mathematical modeling, and engineering research. Under the faculty supervision the students conduct undergraduate research to prepare for career, graduate studies, and workforces in STEM. 
