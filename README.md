@@ -1,9 +1,15 @@
 # Interdisciplinary Research Infusion into STEM Education (I-RISE) Project
+
 ![image](imgs/I-RISE-Logo2smallest.png)              ![image](imgs/I-RISE-Logo3medium.png)         
+
 This five years project is funded by NSF with the award number 2306625.
 [https://www.nsf.gov/awardsearch/showAward?AWD_ID=2306625](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2306625&HistoricalAwards=false)
 
+===
+
 ## ABSTRACT
+
+---
 
 Implementation Projects provide support to the Historically Black Colleges and Universities (HBCUs) to design, implement, study, and assess comprehensive institutional efforts to increase the numbers of students and the quality of their preparation by strengthening science, technology, engineering and mathematics (STEM) education and research. This project at Jarvis Christian University (JCU) seeks to train a diverse group of students by making innovative connections between education, interdisciplinary STEM research, and social learning strategies. The goal of this project is to increase the number of underrepresented minority students pursuing STEM degrees to be competitive for graduate and professional schools. The project will impact the academic success, retention, and graduation rate of students enrolled in STEM degrees and make sustainable change to STEM programs at the institution.
 
