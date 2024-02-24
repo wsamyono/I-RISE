@@ -32,36 +32,44 @@ This award reflects NSF's statutory mission and has been deemed worthy of suppor
 
 ---
 
+![image](imgs/drcarterpicsmall.jpg)                     
 **Name and Roles:** Glendora Carter, PhD (Co-Principal Investigator (Co-PI)), Professor of Chemistry.              
 **Affilition:** Jarvis Christian University.
 **Research Interests:** Biochemistry Nanoparticles.                        
 **Email:** [gcarter@jarvis.edu](mailto:gcarter@jarvis.edu)                                                      
 
 ---
-![image](imgs/drcarterpicsmall.jpg)            
+
+![image](imgs/1545161357108DrMosesPicSmall.jpg)                                     
 **Name and Roles:** Kenie Moses, PhD (Co-Principal Investigator (Co-PI)), Associate Professor of Engineering.  
 **Affilition:** Southern University at Shrevport Lousiana.       
 **Research Interests:** Engineering Education and Electircan Engineering.                                      
 **Email:** [kmoses@susla.edu](mailto:kmoses@susla.edu)                      
-![image](imgs/1545161357108DrMosesPicSmall.jpg)
 
+---
+
+![image](imgs/drsuarezbuitragopicsmall.jpg)           
 **Name and Roles:** Yefer Suarez-Buitrago, PhD (Co-Principal Investigator (Co-PI)), Associate Professor of Physics and Mathematics.                        
 **Affilition:** Jarvis Christian University.
 **Research Interests:** Nuclear Physics.                            
 **Email:** [ybuitrago@jarvis.edu](mailto:ybuitrago@jarvis.edu)                              
-![image](imgs/drsuarezbuitragopicsmall.jpg)
 
 ## Team Support:         
 
+---
+
+![image](imgs/drahollmanpicsmall.jpg)       
 **Name and Roles:** Antonietta Hollman, PhD (Director of Summer Bridge Program), Assistant Professor of Biology.             
 **Affilition:** Jarvis Christian University.
 **Email:** [ahollman@jarvis.edu](mailto:ahollman@jarvis.edu)                                                   
-![image](imgs/drahollmanpicsmall.jpg)
+
+---
+
+![image](imgs/mrsleepicsmall.jpg)
 
 **Name and Roles:** Gwendolyn Lee, MS (Director of Social Study), Assistant Professor of Social Work.                                        
 **Affilition:** Jarvis Christian University.
 **Email:** [glee@jarvis.edu](mailto:glee@jarvis.edu)                                                             
-![image](imgs/mrsleepicsmall.jpg)
 
 ------
 
