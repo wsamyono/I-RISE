@@ -91,5 +91,7 @@ This is 4 weeks summer training research in biology, chemistry, computational an
 
 ![image](imgs/SBP Flyer.png)
 
-## I-RISE SUMMER UNDERGRADUATE RESEARCH (I-RISE SUR)
-This is 8 weeks summer internship undergraduate research in cancer research, mathematical modeling, and engineering research. Under the faculty supervision the students conduct undergraduate research to prepare for career, graduate studies, and workforces in STEM.    
+## I-RISE SUMMER UNDERGRADUATE RESEARCH INTERNSHIP (I-RISE SURI)
+This is 8 weeks summer internship undergraduate research in cancer research, mathematical modeling, and engineering research. Under the faculty supervision the students conduct undergraduate research to prepare for career, graduate studies, and workforces in STEM. 
+
+![image](imgs/NSF I-RISE SURI 2024 Flyer 02232024-2.png)
