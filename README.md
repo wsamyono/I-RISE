@@ -15,7 +15,8 @@ This award reflects NSF's statutory mission and has been deemed worthy of suppor
 
 ## Team Member: 
 ---
-![image](imgs/drbhuiyanpicsmall.jpg)            
+![image](imgs/drbhuiyanpicsmall.jpg) 
+
 **Name and Roles:** Shakhawat Bhuiyan, PhD (Principal Investigator (PI)), Professor of Biology.         
 **Affilition:** Jarvis Christian University.  
 **Research Interests:** Cancer Research with Nanoparticles.                               
@@ -23,7 +24,8 @@ This award reflects NSF's statutory mission and has been deemed worthy of suppor
 
 ---
 
-![image](imgs/drsamyonopicsmall.jpg)                     
+![image](imgs/drsamyonopicsmall.jpg) 
+
 **Name and Roles:** Widodo Samyono, PhD (Co-Principal Investigator (Co-PI)), Associate Professor of Mathematics.                                       
 **Affilition:** Jarvis Christian University. 
 **Research Interests:** Computational and Mathematical Biology.                           
@@ -32,7 +34,8 @@ This award reflects NSF's statutory mission and has been deemed worthy of suppor
 
 ---
 
-![image](imgs/drcarterpicsmall.jpg)                     
+![image](imgs/drcarterpicsmall.jpg)    
+
 **Name and Roles:** Glendora Carter, PhD (Co-Principal Investigator (Co-PI)), Professor of Chemistry.              
 **Affilition:** Jarvis Christian University.
 **Research Interests:** Biochemistry Nanoparticles.                        
@@ -40,7 +43,8 @@ This award reflects NSF's statutory mission and has been deemed worthy of suppor
 
 ---
 
-![image](imgs/1545161357108DrMosesPicSmall.jpg)                                     
+![image](imgs/1545161357108DrMosesPicSmall.jpg)    
+
 **Name and Roles:** Kenie Moses, PhD (Co-Principal Investigator (Co-PI)), Associate Professor of Engineering.  
 **Affilition:** Southern University at Shrevport Lousiana.       
 **Research Interests:** Engineering Education and Electircan Engineering.                                      
@@ -48,7 +52,8 @@ This award reflects NSF's statutory mission and has been deemed worthy of suppor
 
 ---
 
-![image](imgs/drsuarezbuitragopicsmall.jpg)           
+![image](imgs/drsuarezbuitragopicsmall.jpg)    
+
 **Name and Roles:** Yefer Suarez-Buitrago, PhD (Co-Principal Investigator (Co-PI)), Associate Professor of Physics and Mathematics.                        
 **Affilition:** Jarvis Christian University.
 **Research Interests:** Nuclear Physics.                            
@@ -58,7 +63,8 @@ This award reflects NSF's statutory mission and has been deemed worthy of suppor
 
 ---
 
-![image](imgs/drahollmanpicsmall.jpg)       
+![image](imgs/drahollmanpicsmall.jpg)     
+
 **Name and Roles:** Antonietta Hollman, PhD (Director of Summer Bridge Program), Assistant Professor of Biology.             
 **Affilition:** Jarvis Christian University.
 **Email:** [ahollman@jarvis.edu](mailto:ahollman@jarvis.edu)                                                   
