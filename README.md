@@ -23,19 +23,22 @@ This award reflects NSF's statutory mission and has been deemed worthy of suppor
 
 ---
 
+![image](imgs/drsamyonopicsmall.jpg)                     
 **Name and Roles:** Widodo Samyono, PhD (Co-Principal Investigator (Co-PI)), Associate Professor of Mathematics.                                       
 **Affilition:** Jarvis Christian University. 
 **Research Interests:** Computational and Mathematical Biology.                           
 **Email:** [wsamyono@jarvis.edu](mailto:wsamyono@jarvis.edu)                                          
 **LinkedIn:** [https://www.linkedin.com/in/widodosamyono/](https://www.linkedin.com/in/widodosamyono/)                                                     
-![image](imgs/drsamyonopicsmall.jpg)
+
+---
 
 **Name and Roles:** Glendora Carter, PhD (Co-Principal Investigator (Co-PI)), Professor of Chemistry.              
 **Affilition:** Jarvis Christian University.
 **Research Interests:** Biochemistry Nanoparticles.                        
 **Email:** [gcarter@jarvis.edu](mailto:gcarter@jarvis.edu)                                                      
-![image](imgs/drcarterpicsmall.jpg)
 
+---
+![image](imgs/drcarterpicsmall.jpg)            
 **Name and Roles:** Kenie Moses, PhD (Co-Principal Investigator (Co-PI)), Associate Professor of Engineering.  
 **Affilition:** Southern University at Shrevport Lousiana.       
 **Research Interests:** Engineering Education and Electircan Engineering.                                      
