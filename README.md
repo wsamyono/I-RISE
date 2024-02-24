@@ -13,12 +13,13 @@ This award reflects NSF's statutory mission and has been deemed worthy of suppor
 
 ---
 
-## Team Member:
-![image](imgs/drbhuiyanpicsmall.jpg) 
+## Team Member:           
+![image](imgs/drbhuiyanpicsmall.jpg)            
 **Name and Roles:** Shakhawat Bhuiyan, PhD (Principal Investigator (PI)), Professor of Biology.         
 **Affilition:** Jarvis Christian University.  
 **Research Interests:** Cancer Research with Nanoparticles.                               
 **Email:** [sbhuiyan@jarvis.edu](mailto:sbhuiyan@jarvis.edu)                              
+
 ---
 
 **Name and Roles:** Widodo Samyono, PhD (Co-Principal Investigator (Co-PI)), Associate Professor of Mathematics.                                       
