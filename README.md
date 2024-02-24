@@ -59,6 +59,8 @@ This award reflects NSF's statutory mission and has been deemed worthy of suppor
 **Research Interests:** Nuclear Physics.                            
 **Email:** [ybuitrago@jarvis.edu](mailto:ybuitrago@jarvis.edu)                              
 
+---
+
 ## Team Support:         
 
 ---
