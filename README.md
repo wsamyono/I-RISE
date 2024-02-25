@@ -142,6 +142,8 @@ Working with the I-RISE Summer Bridge Program this summer are Professor of Biolo
 
 ## Jarvis students to learn higher levels of cancer research through NSF grant
 
+![image](imgs/KLTVNews.png)
+
 TYLER, Texas (KLTV) - Jarvis Christian University is one of five historically Black colleges and universities, or HBCUs, that received a grant from the National Science Foundation for their groundbreaking undergraduate cancer cell research.
 
 Undergraduate students are the ones conducting the research to potentially find plant-based treatments for different forms of cancer.
