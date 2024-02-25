@@ -187,8 +187,8 @@ Jarvis Christian University is dedicated to empowering students to achieve their
 
 
 
-Local ABC affiliate KLTV Channel 7 came out to talk to Dr. Bhuiyan and the students.  Hereis the story by reporter Lauren Tear. 
-
----
+Local ABC affiliate KLTV Channel 7 came out to talk to Dr. Bhuiyan and the students.  Below is the story by reporter Lauren Tear. 
 
 [https://www.jarvis.edu/blog/post/jarvis-christian-university-in-hawkins-texas-awarded-225-million-national-science-foundation-grant](https://www.jarvis.edu/blog/post/jarvis-christian-university-in-hawkins-texas-awarded-225-million-national-science-foundation-grant)
+
+---
