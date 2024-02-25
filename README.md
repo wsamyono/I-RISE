@@ -97,14 +97,14 @@ This award reflects NSF's statutory mission and has been deemed worthy of suppor
 ---
 
 ## I-RISE SUMMER BRIDGE PROGRAM (I-RISE SBP) 
-This is 4 weeks summer training research in biology, chemistry, computational and mathematical biology, and pre-engineering. See the news I-RISE SUMMER BRIDGE PROGRAM FOR HIGH SCHOOL SENIORS INTERESTED IN STEM CAREERS.  
+This is 4 weeks summer training research in biology, chemistry, computational and mathematical biology, and pre-engineering. See the news I-RISE SUMMER BRIDGE PROGRAM FOR HIGH SCHOOL SENIORS INTERESTED IN STEM CAREERS. Interested students may check the flyer below and scan the QR Code to apply for the program.  
 
 ![image](imgs/SBP Flyer.png)
 
 ---
 
 ## I-RISE SUMMER UNDERGRADUATE RESEARCH INTERNSHIP (I-RISE SURI)
-This is 8 weeks summer internship undergraduate research in cancer research, mathematical modeling, and engineering research. Under the faculty supervision the students conduct undergraduate research to prepare for career, graduate studies, and workforces in STEM. 
+This is 8 weeks summer internship undergraduate research in cancer research, mathematical modeling, and engineering research. Under the faculty supervision the students conduct undergraduate research to prepare for career, graduate studies, and workforces in STEM. Interested students may check the flyer below and scan the QR Code to apply for the program.
 
 ![image](imgs/NSF I-RISE SURI 2024 Flyer 02232024-2.png)
 
@@ -118,7 +118,10 @@ This is 8 weeks summer internship undergraduate research in cancer research, mat
 
 Jarvis Christian University was featured on the local ABC affiliate, KLTV, in a story about a new I-RISE Summer Bridge Program that provides students with a $500 stipend, four weeks of research experience alongside scientists doing real research, and free room and board, Up to 50 high school seniors can attend.  Juniors in high school can apply, however, seniors will get priority slots. 
                                                                   
-![image](imgs/kltvphoto1.jpg)                                                                 
+![image](imgs/kltvphoto1.jpg)  
+
+The News resource from JCU Blog post from the link below.
+
 [https://www.jarvis.edu/blog/post/kltv-features-jarvis-i-rise-summer-bridge-program](https://www.jarvis.edu/blog/post/kltv-features-jarvis-i-rise-summer-bridge-program)
 
 ---
@@ -135,7 +138,10 @@ Interested high school seniors should contact Dr. Antoinesha L. Hollman, directo
 
 Working with the I-RISE Summer Bridge Program this summer are Professor of Biology and NSF grant principal investigator Dr. Shakhawat Bhuiyan, Professor of Chemistry and NSF grant co-principal investigator Dr. Glendora Carter, Associate Professor of Physics Dr. Yefer M. Suarez, Associate Professor of Mathematics Dr. Widodo Samyono, Associate Professor of Engineering and Technology Dr. Kennie Moses and Assistant Professor of Social Work and project manager Gwendolyn Lee.
 
-![image](imgs/labbiophoto1.jpg)                                                                      
+![image](imgs/labbiophoto1.jpg)        
+
+The News resource from JCU Blog post from the link below.
+
 [https://www.jarvis.edu/blog/post/jarvis-christian-university-to-host-i-rise-summer-bridge-program-for-high-school-seniors-interested-in-stem-careers](https://www.jarvis.edu/blog/post/jarvis-christian-university-to-host-i-rise-summer-bridge-program-for-high-school-seniors-interested-in-stem-careers)
 
 ---
@@ -152,7 +158,7 @@ The lab currently has five young women who are working with plants and spices to
 
 Their names are Itzel Soto, Patricia Soto, Daniella Johnson, Esther Chicou and Chinaza Jennifer Okwuoma.
 
-The News resources from KLTV website from the link below.
+The News resource from KLTV website from the link below.
 
 [https://www.kltv.com/2023/07/20/webxtra-jarvis-christian-college-awarded-25m-undergraduate-cancer-research-program/](https://www.kltv.com/2023/07/20/webxtra-jarvis-christian-college-awarded-25m-undergraduate-cancer-research-program/)
 
@@ -191,7 +197,7 @@ Finally, this opportunity will promote new and expanded collaborations for degre
 
 Jarvis Christian University is dedicated to empowering students to achieve their career goals through an affordable academic experience that prepares them for today’s global economy. Whether a student is a recent high school graduate or a working adult seeking career advancement, Jarvis Christian University develops students of all ages intellectually, socially, spiritually, and emotionally.  
 
-The News resources from JCU Blog post from the link below.
+The News resource from JCU Blog post from the link below.
 
 [https://www.jarvis.edu/blog/post/jarvis-christian-university-in-hawkins-texas-awarded-225-million-national-science-foundation-grant](https://www.jarvis.edu/blog/post/jarvis-christian-university-in-hawkins-texas-awarded-225-million-national-science-foundation-grant)
 
