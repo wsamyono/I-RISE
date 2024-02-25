@@ -157,8 +157,10 @@ Their names are Itzel Soto, Patricia Soto, Daniella Johnson, Esther Chicou and C
 ## JARVIS CHRISTIAN UNIVERSITY IN HAWKINS, TEXAS, AWARDED $2.25 MILLION NATIONAL SCIENCE FOUNDATION GRANT
 
 
-Jarvis Christian University biology professor Dr. Shakhawat Bhuiyan is the principal investigator on a new $2.25 million National Science Foundation (NSF) grant titled “Interdisciplinary Research Infusion into STEM Education Undergraduate Program.” The new NSF grant continues over the next five years, with a start date of August 1, 2023, and running through July 31, 2028.  Each year, Jarvis will submit an annual project report in accordance with the award terms and conditions.
+Jarvis Christian University biology professor Dr. Shakhawat Bhuiyan is the principal investigator on a new $2.25 million National Science Foundation (NSF) grant titled “Interdisciplinary Research Infusion into STEM Education Undergraduate Program.” The new NSF grant continues over the next five years, with a start date of August 1, 2023, and running through July 31, 2028.  Each year, Jarvis will submit an annual project report in accordance with the award terms and conditions.  
+
 ![image](imgs/KLTVPic.jpg) 
+
 “This continuing grant gives students the opportunity to research plant-based bioactive compounds and nanoparticles to potentially develop new treatments for cancer,” Bhuiyan said.
 
 This new NSF funding opportunity is made in accordance with NSF 20-559 Historically Black Colleges and Universities Undergraduate Program. Co-principal investigators include Jarvis Christian University professors Dr. Glendora Carter, Dr. Widodo Samyono, and Dr. Yefer Suarez, along with Southern University and A&M College System professor Dr. Kenie R. Moses. Jarvis Assistant Professor of Social Work Gwendolyn Lee will be the project manager of this grant to conduct social sciences research with the students.
