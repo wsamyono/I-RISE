@@ -120,7 +120,7 @@ Jarvis Christian University was featured on the local ABC affiliate, KLTV, in a 
                                                                   
 ![image](imgs/kltvphoto1.jpg)  
 
-The News resource from JCU Blog post from the link below.
+Read the News resource from JCU Blog post on the link below.
 
 [https://www.jarvis.edu/blog/post/kltv-features-jarvis-i-rise-summer-bridge-program](https://www.jarvis.edu/blog/post/kltv-features-jarvis-i-rise-summer-bridge-program)
 
@@ -140,7 +140,7 @@ Working with the I-RISE Summer Bridge Program this summer are Professor of Biolo
 
 ![image](imgs/labbiophoto1.jpg)        
 
-The News resource from JCU Blog post from the link below.
+Read the News resource from JCU Blog post on the link below.
 
 [https://www.jarvis.edu/blog/post/jarvis-christian-university-to-host-i-rise-summer-bridge-program-for-high-school-seniors-interested-in-stem-careers](https://www.jarvis.edu/blog/post/jarvis-christian-university-to-host-i-rise-summer-bridge-program-for-high-school-seniors-interested-in-stem-careers)
 
@@ -158,7 +158,7 @@ The lab currently has five young women who are working with plants and spices to
 
 Their names are Itzel Soto, Patricia Soto, Daniella Johnson, Esther Chicou and Chinaza Jennifer Okwuoma.
 
-The News resource from KLTV website from the link below.
+Check the News resource from KLTV website on the link below.
 
 [https://www.kltv.com/2023/07/20/webxtra-jarvis-christian-college-awarded-25m-undergraduate-cancer-research-program/](https://www.kltv.com/2023/07/20/webxtra-jarvis-christian-college-awarded-25m-undergraduate-cancer-research-program/)
 
@@ -197,11 +197,11 @@ Finally, this opportunity will promote new and expanded collaborations for degre
 
 Jarvis Christian University is dedicated to empowering students to achieve their career goals through an affordable academic experience that prepares them for today’s global economy. Whether a student is a recent high school graduate or a working adult seeking career advancement, Jarvis Christian University develops students of all ages intellectually, socially, spiritually, and emotionally.  
 
-The News resource from JCU Blog post from the link below.
+Read the News resource from JCU Blog post on the link below.
 
 [https://www.jarvis.edu/blog/post/jarvis-christian-university-in-hawkins-texas-awarded-225-million-national-science-foundation-grant](https://www.jarvis.edu/blog/post/jarvis-christian-university-in-hawkins-texas-awarded-225-million-national-science-foundation-grant)
 
-Local ABC affiliate KLTV Channel 7 came out to talk to Dr. Bhuiyan and the students. Below is the story by reporter Lauren Tear. 
+Local ABC affiliate KLTV Channel 7 came out to talk to Dr. Bhuiyan and the students. From the link below you may check the story by reporter Lauren Tear. 
 
 [https://www.kltv.com/2023/07/20/webxtra-jarvis-christian-college-awarded-25m-undergraduate-cancer-research-program/](https://www.kltv.com/2023/07/20/webxtra-jarvis-christian-college-awarded-25m-undergraduate-cancer-research-program/)
 
