@@ -154,7 +154,7 @@ Their names are Itzel Soto, Patricia Soto, Daniella Johnson, Esther Chicou and C
 
 ---
 
-## News / JARVIS CHRISTIAN UNIVERSITY IN HAWKINS, TEXAS, AWARDED $2.25 MILLION NATIONAL SCIENCE FOUNDATION GRANT
+## JARVIS CHRISTIAN UNIVERSITY IN HAWKINS, TEXAS, AWARDED $2.25 MILLION NATIONAL SCIENCE FOUNDATION GRANT
 
 
 Jarvis Christian University biology professor Dr. Shakhawat Bhuiyan is the principal investigator on a new $2.25 million National Science Foundation (NSF) grant titled “Interdisciplinary Research Infusion into STEM Education Undergraduate Program.” The new NSF grant continues over the next five years, with a start date of August 1, 2023, and running through July 31, 2028.  Each year, Jarvis will submit an annual project report in accordance with the award terms and conditions.
