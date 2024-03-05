@@ -57,7 +57,7 @@ This award reflects NSF's statutory mission and has been deemed worthy of suppor
 ![image](imgs/1545161357108DrMosesPicSmall.jpg)    
 
 **Name and Roles:** Kenie Moses, PhD (Co-Principal Investigator (Co-PI)), Associate Professor of Engineering.  
-**Affilition:** Southern University at Shrevport Lousiana.       
+**Affilition:** Southern University at Shreveport Lousiana.       
 **Research Interests:** Engineering Education and Electircan Engineering.                                      
 **Email:** [kmoses@susla.edu](mailto:kmoses@susla.edu)                      
 
@@ -78,7 +78,7 @@ This award reflects NSF's statutory mission and has been deemed worthy of suppor
 
 ![image](imgs/drahollmanpicsmall.jpg)     
 
-**Name and Roles:** Antonietta Hollman, PhD (Director of Summer Bridge Program), Assistant Professor of Biology.             
+**Name and Roles:** Antoinesha Hollman, PhD (Director of Summer Bridge Program), Assistant Professor of Biology.             
 **Affilition:** Jarvis Christian University.
 **Email:** [ahollman@jarvis.edu](mailto:ahollman@jarvis.edu)                                                   
 
