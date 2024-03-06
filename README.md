@@ -28,16 +28,16 @@ This award reflects NSF's statutory mission and has been deemed worthy of suppor
 
 ![image](imgs/drbhuiyanpicsmall.jpg) 
 
-**Name and Roles:** Shakhawat Bhuiyan, PhD (Principal Investigator (PI)), Professor of Biology.         
+**Name and Roles:** Shakhawat Bhuiyan, PhD. Principal Investigator (PI), Professor of Biology.         
 **Affilition:** Jarvis Christian University.  
-**Research Interests:** Cancer Research with Nanoparticles.                               
+**Research Interests:** Cancer Research with Bioactive Compounds and Nanoparticles.                               
 **Email:** [sbhuiyan@jarvis.edu](mailto:sbhuiyan@jarvis.edu)                              
 
 ---
 
 ![image](imgs/drsamyonopicsmall.jpg) 
 
-**Name and Roles:** Widodo Samyono, PhD (Co-Principal Investigator (Co-PI)), Associate Professor of Mathematics.                                       
+**Name and Roles:** Widodo Samyono, PhD. Co-Principal Investigator (Co-PI), Associate Professor of Mathematics.                                       
 **Affilition:** Jarvis Christian University. 
 **Research Interests:** Computational and Mathematical Biology.                           
 **Email:** [wsamyono@jarvis.edu](mailto:wsamyono@jarvis.edu)                                          
@@ -47,7 +47,7 @@ This award reflects NSF's statutory mission and has been deemed worthy of suppor
 
 ![image](imgs/drcarterpicsmall.jpg)    
 
-**Name and Roles:** Glendora Carter, PhD (Co-Principal Investigator (Co-PI)), Professor of Chemistry.              
+**Name and Roles:** Glendora Carter, PhD. Co-Principal Investigator (Co-PI), Professor of Chemistry.              
 **Affilition:** Jarvis Christian University.
 **Research Interests:** Biochemistry Nanoparticles.                        
 **Email:** [gcarter@jarvis.edu](mailto:gcarter@jarvis.edu)                                                      
@@ -56,7 +56,7 @@ This award reflects NSF's statutory mission and has been deemed worthy of suppor
 
 ![image](imgs/1545161357108DrMosesPicSmall.jpg)    
 
-**Name and Roles:** Kenie Moses, PhD (Co-Principal Investigator (Co-PI)), Associate Professor of Engineering.  
+**Name and Roles:** Kenie Moses, PhD. Co-Principal Investigator (Co-PI), Associate Professor of Engineering.  
 **Affilition:** Southern University at Shreveport Lousiana.       
 **Research Interests:** Engineering Education and Electircan Engineering.                                      
 **Email:** [kmoses@susla.edu](mailto:kmoses@susla.edu)                      
@@ -65,7 +65,7 @@ This award reflects NSF's statutory mission and has been deemed worthy of suppor
 
 ![image](imgs/drsuarezbuitragopicsmall.jpg)    
 
-**Name and Roles:** Yefer Suarez-Buitrago, PhD (Co-Principal Investigator (Co-PI)), Associate Professor of Physics and Mathematics.                        
+**Name and Roles:** Yefer Suarez-Buitrago, PhD. Co-Principal Investigator (Co-PI), Associate Professor of Physics and Mathematics.                        
 **Affilition:** Jarvis Christian University.
 **Research Interests:** Nuclear Physics.                            
 **Email:** [ybuitrago@jarvis.edu](mailto:ybuitrago@jarvis.edu)                              
@@ -78,7 +78,7 @@ This award reflects NSF's statutory mission and has been deemed worthy of suppor
 
 ![image](imgs/drahollmanpicsmall.jpg)     
 
-**Name and Roles:** Antoinesha Hollman, PhD (Director of Summer Bridge Program), Assistant Professor of Biology.             
+**Name and Roles:** Antoinesha Hollman, PhD. Director of Summer Bridge Program, Assistant Professor of Biology.             
 **Affilition:** Jarvis Christian University.
 **Email:** [ahollman@jarvis.edu](mailto:ahollman@jarvis.edu)                                                   
 
@@ -86,7 +86,7 @@ This award reflects NSF's statutory mission and has been deemed worthy of suppor
 
 ![image](imgs/mrsleepicsmall.jpg)
 
-**Name and Roles:** Gwendolyn Lee, MS (Director of Social Study), Assistant Professor of Social Work.                                        
+**Name and Roles:** Gwendolyn Lee, MS. Director of Social Study, Assistant Professor of Social Work.                                        
 **Affilition:** Jarvis Christian University.
 **Email:** [glee@jarvis.edu](mailto:glee@jarvis.edu)                                                             
 
