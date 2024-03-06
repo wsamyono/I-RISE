@@ -57,7 +57,7 @@ This award reflects NSF's statutory mission and has been deemed worthy of suppor
 ![image](imgs/1545161357108DrMosesPicSmall.jpg)    
 
 **Name and Roles:** Kenie Moses, PhD. Co-Principal Investigator (Co-PI), Associate Professor of Engineering.  
-**Affilition:** Southern University at Shreveport Lousiana.       
+**Affilition:** Southern University at Shreveport Louisiana.       
 **Research Interests:** Engineering Education and Electircan Engineering.                                      
 **Email:** [kmoses@susla.edu](mailto:kmoses@susla.edu)                      
 
