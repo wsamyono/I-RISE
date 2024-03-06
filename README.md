@@ -26,7 +26,7 @@ This award reflects NSF's statutory mission and has been deemed worthy of suppor
 
 ---
 
-![image](imgs/drbhuiyanpicsmall.jpg) 
+![image](imgs/DrBhuiyanPhotoSmall.jpg) 
 
 **Name and Roles:** Shakhawat Bhuiyan, PhD. Principal Investigator (PI), Professor of Biology.         
 **Affilition:** Jarvis Christian University.  
