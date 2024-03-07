@@ -86,7 +86,7 @@ This award reflects NSF's statutory mission and has been deemed worthy of suppor
 
 ![image](imgs/mrsleepicsmall.jpg)
 
-**Name and Roles:** Gwendolyn Lee, MS. Director of Social Study, Assistant Professor of Social Work.                                        
+**Name and Roles:** Gwendolyn Lee, MSW. Director of Social Study, Assistant Professor of Social Work.                                        
 **Affilition:** Jarvis Christian University.
 **Email:** [glee@jarvis.edu](mailto:glee@jarvis.edu)                                                             
 
