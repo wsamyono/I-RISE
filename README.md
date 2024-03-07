@@ -5,7 +5,7 @@
 
 ![image](imgs/I-RISE-Logo2smallest.png)              ![image](imgs/I-RISE-Logo3medium.png)         
 
-This five years project is funded by NSF with the award number 2306625.
+This five year project is funded by NSF with the award number 2306625.
 [https://www.nsf.gov/awardsearch/showAward?AWD_ID=2306625](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2306625&HistoricalAwards=false)
 
 ---
@@ -58,7 +58,7 @@ This award reflects NSF's statutory mission and has been deemed worthy of suppor
 
 **Name and Roles:** Kenie Moses, PhD. Co-Principal Investigator (Co-PI), Associate Professor of Engineering.  
 **Affilition:** Southern University at Shreveport Louisiana.       
-**Research Interests:** Engineering Education and Electircan Engineering.                                      
+**Research Interests:** Engineering Education and Electircal Engineering.                                      
 **Email:** [kmoses@susla.edu](mailto:kmoses@susla.edu)                      
 
 ---
