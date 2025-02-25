@@ -106,7 +106,7 @@ This is 4 weeks summer training research in biology, chemistry, computational an
 ## I-RISE SUMMER UNDERGRADUATE RESEARCH INTERNSHIP (I-RISE SURI)
 This is 8 weeks summer internship undergraduate research in cancer research, mathematical modeling, and engineering research. Under the faculty supervision the students conduct undergraduate research to prepare for career, graduate studies, and workforces in STEM. Interested students may check the flyer below and scan the QR Code to apply for the program.
 
-![image](imgs/NSF I-RISE SURI Flyer 2025.jpg)
+![image](imgs/NSF I-RISE SURI Flyer 2025.png)
 
 ------
 
