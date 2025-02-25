@@ -99,7 +99,7 @@ This award reflects NSF's statutory mission and has been deemed worthy of suppor
 ## I-RISE SUMMER BRIDGE PROGRAM (I-RISE SBP) 
 This is 4 weeks summer training research in biology, chemistry, computational and mathematical biology, and pre-engineering. See the news I-RISE SUMMER BRIDGE PROGRAM FOR HIGH SCHOOL SENIORS INTERESTED IN STEM CAREERS. Interested students may check the flyer below and scan the QR Code to apply for the program.  
 
-![image](imgs/I-Rise Campaign Flier Jarvis Christian University 2025.png} 
+![image](imgs/I-RiseCampaignFlyerJarvisChristianUniversity2025.png} 
 
 ---
 
